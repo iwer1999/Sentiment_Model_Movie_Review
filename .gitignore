@@ -1,0 +1,15 @@
+
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+# IMDb dataset
+data/aclImdb/
+
+# Nested repository and generated data
+data/models/.git/
+data/models/data/
+data/models/__pycache__/
+
+# Keep trained model files only if needed and reasonably small
