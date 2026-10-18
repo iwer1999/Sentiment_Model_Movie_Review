@@ -1,0 +1,7 @@
+certifi
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+streamlit

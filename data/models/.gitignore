@@ -1,0 +1,13 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+
+# IMDb dataset and archive
+data/aclImdb/
+data/aclImdb_v1.tar.gz
+
+# Temporary data files
+data/extra_train.csv
+data/slang_test.csv
